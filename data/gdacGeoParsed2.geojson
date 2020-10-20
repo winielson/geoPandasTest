@@ -1,0 +1,1330 @@
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.893,45.112 ]
+    },
+    "properties": {
+    "id":0,
+    "FromDate":"Thu, 21 May 2020 00:00:00 GMT",
+    "Duration":21,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.199,29.782 ]
+    },
+    "properties": {
+    "id":1,
+    "FromDate":"Mon, 01 Jun 2020 00:00:00 GMT",
+    "Duration":19,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.359,-29.854 ]
+    },
+    "properties": {
+    "id":2,
+    "FromDate":"Wed, 11 Mar 2020 00:00:00 GMT",
+    "Duration":31,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.316,46.882 ]
+    },
+    "properties": {
+    "id":3,
+    "FromDate":"Thu, 21 May 2020 00:00:00 GMT",
+    "Duration":21,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.415,39.285 ]
+    },
+    "properties": {
+    "id":4,
+    "FromDate":"Thu, 21 May 2020 00:00:00 GMT",
+    "Duration":21,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.396,-31.893 ]
+    },
+    "properties": {
+    "id":5,
+    "FromDate":"Sat, 21 Mar 2020 00:00:00 GMT",
+    "Duration":29,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.889,49.143 ]
+    },
+    "properties": {
+    "id":6,
+    "FromDate":"Sat, 21 Mar 2020 00:00:00 GMT",
+    "Duration":29,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.887,-14.876 ]
+    },
+    "properties": {
+    "id":7,
+    "FromDate":"Sat, 21 Mar 2020 00:00:00 GMT",
+    "Duration":29,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.974,-16.511 ]
+    },
+    "properties": {
+    "id":8,
+    "FromDate":"Sat, 21 Dec 2019 00:00:00 GMT",
+    "Duration":42,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.521,-30.65 ]
+    },
+    "properties": {
+    "id":9,
+    "FromDate":"Fri, 21 Jun 2019 00:00:00 GMT",
+    "Duration":69,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.79,16.031 ]
+    },
+    "properties": {
+    "id":10,
+    "FromDate":"Wed, 21 Nov 2018 00:00:00 GMT",
+    "Duration":99,
+    "EventType":"DR",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2827,19.904 ]
+    },
+    "properties": {
+    "id":11,
+    "FromDate":"Tue, 13 Oct 2020 04:35:59 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":22247
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.3,18.8 ]
+    },
+    "properties": {
+    "id":12,
+    "FromDate":"Sun, 11 Oct 2020 18:00:00 GMT",
+    "Duration":0,
+    "EventType":"TC",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.4053,-19.3287 ]
+    },
+    "properties": {
+    "id":13,
+    "FromDate":"Mon, 12 Oct 2020 23:49:48 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":36292
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2793,-2.2175 ]
+    },
+    "properties": {
+    "id":14,
+    "FromDate":"Mon, 12 Oct 2020 23:09:29 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":115549
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9748,-16.4622 ]
+    },
+    "properties": {
+    "id":15,
+    "FromDate":"Mon, 12 Oct 2020 21:02:55 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1127562
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.1894,-4.7763 ]
+    },
+    "properties": {
+    "id":16,
+    "FromDate":"Mon, 12 Oct 2020 18:41:58 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":242712
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.021,39.5951 ]
+    },
+    "properties": {
+    "id":17,
+    "FromDate":"Mon, 12 Oct 2020 11:47:17 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":70130
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.6592,14.7958 ]
+    },
+    "properties": {
+    "id":18,
+    "FromDate":"Mon, 12 Oct 2020 07:03:07 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":13087
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.6601,14.6237 ]
+    },
+    "properties": {
+    "id":19,
+    "FromDate":"Mon, 12 Oct 2020 06:06:56 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":6483744
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4,29.4 ]
+    },
+    "properties": {
+    "id":20,
+    "FromDate":"Sun, 04 Oct 2020 18:00:00 GMT",
+    "Duration":1,
+    "EventType":"TC",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5906,14.8588 ]
+    },
+    "properties": {
+    "id":21,
+    "FromDate":"Mon, 12 Oct 2020 04:13:56 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":70762
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.2256,35.5803 ]
+    },
+    "properties": {
+    "id":22,
+    "FromDate":"Mon, 12 Oct 2020 04:11:27 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":148387
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2227,-62.4834 ]
+    },
+    "properties": {
+    "id":23,
+    "FromDate":"Mon, 12 Oct 2020 00:39:58 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.2682,35.6061 ]
+    },
+    "properties": {
+    "id":24,
+    "FromDate":"Mon, 12 Oct 2020 00:30:40 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":117161
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.3747,29.4508 ]
+    },
+    "properties": {
+    "id":25,
+    "FromDate":"Mon, 12 Oct 2020 00:28:31 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8284,11.4283 ]
+    },
+    "properties": {
+    "id":26,
+    "FromDate":"Sun, 11 Oct 2020 22:30:49 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":2454026
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.6801,-5.8243 ]
+    },
+    "properties": {
+    "id":27,
+    "FromDate":"Sun, 11 Oct 2020 18:47:54 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.9087,-24.0797 ]
+    },
+    "properties": {
+    "id":28,
+    "FromDate":"Sun, 11 Oct 2020 18:26:22 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":12744
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1617,-28.5928 ]
+    },
+    "properties": {
+    "id":29,
+    "FromDate":"Sun, 11 Oct 2020 14:41:20 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.6771,42.034 ]
+    },
+    "properties": {
+    "id":30,
+    "FromDate":"Sun, 11 Oct 2020 13:58:42 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":121710
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.009,36.1941 ]
+    },
+    "properties": {
+    "id":31,
+    "FromDate":"Sun, 11 Oct 2020 13:36:34 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":720227
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.6871,4.5069 ]
+    },
+    "properties": {
+    "id":32,
+    "FromDate":"Sun, 11 Oct 2020 11:09:24 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1935383
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8908,13.1225 ]
+    },
+    "properties": {
+    "id":33,
+    "FromDate":"Sun, 11 Oct 2020 06:54:53 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.3,15.2 ]
+    },
+    "properties": {
+    "id":34,
+    "FromDate":"Sat, 10 Oct 2020 00:00:00 GMT",
+    "Duration":0,
+    "EventType":"TC",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9527,-14.1874 ]
+    },
+    "properties": {
+    "id":35,
+    "FromDate":"Sun, 11 Oct 2020 00:41:08 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":493319
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.154,-62.3357 ]
+    },
+    "properties": {
+    "id":36,
+    "FromDate":"Sat, 10 Oct 2020 20:58:37 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.7159,4.7792 ]
+    },
+    "properties": {
+    "id":37,
+    "FromDate":"Sat, 10 Oct 2020 20:22:28 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":2098525
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.5294,24.6033 ]
+    },
+    "properties": {
+    "id":38,
+    "FromDate":"Sat, 10 Oct 2020 17:38:00 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":5118680
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.9965,-15.8034 ]
+    },
+    "properties": {
+    "id":39,
+    "FromDate":"Sat, 10 Oct 2020 17:19:51 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":111854
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8,33.1 ]
+    },
+    "properties": {
+    "id":40,
+    "FromDate":"Sun, 04 Oct 2020 21:00:00 GMT",
+    "Duration":1,
+    "EventType":"TC",
+    "Population":1870997
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3045,-28.5676 ]
+    },
+    "properties": {
+    "id":41,
+    "FromDate":"Sat, 10 Oct 2020 13:14:57 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.7889,58.5024 ]
+    },
+    "properties": {
+    "id":42,
+    "FromDate":"Sat, 10 Oct 2020 11:22:08 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":7
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6566,-4.6942 ]
+    },
+    "properties": {
+    "id":43,
+    "FromDate":"Sat, 10 Oct 2020 10:43:04 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":378567
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5764,-5.9987 ]
+    },
+    "properties": {
+    "id":44,
+    "FromDate":"Sat, 10 Oct 2020 09:08:43 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":337207
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.7,13.8 ]
+    },
+    "properties": {
+    "id":45,
+    "FromDate":"Mon, 05 Oct 2020 21:00:00 GMT",
+    "Duration":1,
+    "EventType":"TC",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.4601,-33.7301 ]
+    },
+    "properties": {
+    "id":46,
+    "FromDate":"Sat, 10 Oct 2020 06:48:42 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":199027
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.7394,51.9962 ]
+    },
+    "properties": {
+    "id":47,
+    "FromDate":"Sat, 10 Oct 2020 06:41:30 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.9102,-35.252 ]
+    },
+    "properties": {
+    "id":48,
+    "FromDate":"Sat, 10 Oct 2020 03:40:45 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.4266,-17.2155 ]
+    },
+    "properties": {
+    "id":49,
+    "FromDate":"Fri, 09 Oct 2020 21:22:23 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":16462
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.0334,-19.0982 ]
+    },
+    "properties": {
+    "id":50,
+    "FromDate":"Fri, 09 Oct 2020 17:01:13 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":20789
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.3767,-27.8873 ]
+    },
+    "properties": {
+    "id":51,
+    "FromDate":"Fri, 09 Oct 2020 08:55:50 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":515596
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.8755,14.921 ]
+    },
+    "properties": {
+    "id":52,
+    "FromDate":"Fri, 09 Oct 2020 06:27:50 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":6270583
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.7007,2.1021 ]
+    },
+    "properties": {
+    "id":53,
+    "FromDate":"Fri, 09 Oct 2020 05:57:41 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":852574
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.4897,17.8389 ]
+    },
+    "properties": {
+    "id":54,
+    "FromDate":"Fri, 09 Oct 2020 04:14:03 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":157306
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5974,-6.0392 ]
+    },
+    "properties": {
+    "id":55,
+    "FromDate":"Fri, 09 Oct 2020 02:57:20 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":266996
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.9913,17.994 ]
+    },
+    "properties": {
+    "id":56,
+    "FromDate":"Fri, 09 Oct 2020 01:21:24 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":156694
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2885,-6.2472 ]
+    },
+    "properties": {
+    "id":57,
+    "FromDate":"Thu, 08 Oct 2020 23:14:35 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":898105
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.652,52.698 ]
+    },
+    "properties": {
+    "id":58,
+    "FromDate":"Thu, 08 Oct 2020 18:24:52 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.2856,-11.2206 ]
+    },
+    "properties": {
+    "id":59,
+    "FromDate":"Thu, 08 Oct 2020 16:27:45 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1036
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8349,-5.9004 ]
+    },
+    "properties": {
+    "id":60,
+    "FromDate":"Thu, 08 Oct 2020 15:58:52 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":152456
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.5913,-58.9377 ]
+    },
+    "properties": {
+    "id":61,
+    "FromDate":"Thu, 08 Oct 2020 15:48:26 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 163.256,-11.2041 ]
+    },
+    "properties": {
+    "id":62,
+    "FromDate":"Thu, 08 Oct 2020 15:25:09 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1261
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.2558,52.7184 ]
+    },
+    "properties": {
+    "id":63,
+    "FromDate":"Thu, 08 Oct 2020 14:22:39 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":15
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.3894,71.6289 ]
+    },
+    "properties": {
+    "id":64,
+    "FromDate":"Thu, 08 Oct 2020 10:42:21 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.9703,-5.4926 ]
+    },
+    "properties": {
+    "id":65,
+    "FromDate":"Thu, 08 Oct 2020 10:31:57 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":48682
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.2603,-62.31 ]
+    },
+    "properties": {
+    "id":66,
+    "FromDate":"Thu, 08 Oct 2020 09:02:20 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.2045,-11.7596 ]
+    },
+    "properties": {
+    "id":67,
+    "FromDate":"Thu, 08 Oct 2020 08:42:07 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":3851
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1686,-6.114 ]
+    },
+    "properties": {
+    "id":68,
+    "FromDate":"Thu, 08 Oct 2020 07:35:32 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":820129
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.6591,29.7637 ]
+    },
+    "properties": {
+    "id":69,
+    "FromDate":"Thu, 08 Oct 2020 03:34:31 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":3108
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.936,12.4027 ]
+    },
+    "properties": {
+    "id":70,
+    "FromDate":"Thu, 08 Oct 2020 03:18:32 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":9482
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.1224,-6.4422 ]
+    },
+    "properties": {
+    "id":71,
+    "FromDate":"Wed, 07 Oct 2020 23:50:46 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":350
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.4973,41.4789 ]
+    },
+    "properties": {
+    "id":72,
+    "FromDate":"Wed, 07 Oct 2020 22:13:05 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":2551311
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.9698,-18.0035 ]
+    },
+    "properties": {
+    "id":73,
+    "FromDate":"Wed, 07 Oct 2020 22:08:35 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1621
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.9057,0.4102 ]
+    },
+    "properties": {
+    "id":74,
+    "FromDate":"Wed, 07 Oct 2020 18:27:26 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.1781,18.174 ]
+    },
+    "properties": {
+    "id":75,
+    "FromDate":"Wed, 07 Oct 2020 18:24:34 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":137185
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.9844,23.402 ]
+    },
+    "properties": {
+    "id":76,
+    "FromDate":"Wed, 07 Oct 2020 18:04:18 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.3201,-62.3265 ]
+    },
+    "properties": {
+    "id":77,
+    "FromDate":"Wed, 07 Oct 2020 12:36:28 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9259,-10.4971 ]
+    },
+    "properties": {
+    "id":78,
+    "FromDate":"Wed, 07 Oct 2020 06:50:13 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":122376
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1249,-28.994 ]
+    },
+    "properties": {
+    "id":79,
+    "FromDate":"Wed, 07 Oct 2020 05:34:23 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":120163
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -136.2,22.5 ]
+    },
+    "properties": {
+    "id":80,
+    "FromDate":"Tue, 29 Sep 2020 09:00:00 GMT",
+    "Duration":1,
+    "EventType":"TC",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -178.3596,51.332 ]
+    },
+    "properties": {
+    "id":81,
+    "FromDate":"Wed, 07 Oct 2020 01:34:15 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.7322,-11.9466 ]
+    },
+    "properties": {
+    "id":82,
+    "FromDate":"Wed, 07 Oct 2020 00:35:55 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":3851
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "id":83,
+    "FromDate":"Mon, 28 Sep 2020 00:00:00 GMT",
+    "Duration":1,
+    "EventType":"VO",
+    "Population":937882
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.9254,34.2947 ]
+    },
+    "properties": {
+    "id":84,
+    "FromDate":"Tue, 06 Oct 2020 23:02:06 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":3529336
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.778,25.6018 ]
+    },
+    "properties": {
+    "id":85,
+    "FromDate":"Tue, 06 Oct 2020 22:02:54 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":1733984
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7801,-7.2969 ]
+    },
+    "properties": {
+    "id":86,
+    "FromDate":"Tue, 06 Oct 2020 19:11:34 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":5420235
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.25642219953983,44.07012445 ]
+    },
+    "properties": {
+    "id":87,
+    "FromDate":"Fri, 02 Oct 2020 00:00:00 GMT",
+    "Duration":0,
+    "EventType":"FL",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.1772,-62.365 ]
+    },
+    "properties": {
+    "id":88,
+    "FromDate":"Tue, 06 Oct 2020 13:56:42 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.8716,-9.5537 ]
+    },
+    "properties": {
+    "id":89,
+    "FromDate":"Tue, 06 Oct 2020 13:52:32 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":0
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.6844,9.5705 ]
+    },
+    "properties": {
+    "id":90,
+    "FromDate":"Tue, 06 Oct 2020 13:22:06 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":462588
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.1731,-0.9355 ]
+    },
+    "properties": {
+    "id":91,
+    "FromDate":"Tue, 06 Oct 2020 13:17:36 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":404032
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -178.4906,-18.0249 ]
+    },
+    "properties": {
+    "id":92,
+    "FromDate":"Tue, 06 Oct 2020 10:11:46 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":5703
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.2634,0.7895 ]
+    },
+    "properties": {
+    "id":93,
+    "FromDate":"Tue, 06 Oct 2020 08:47:01 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":619307
+    }
+  }
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8726,39.7429 ]
+    },
+    "properties": {
+    "id":94,
+    "FromDate":"Tue, 06 Oct 2020 08:12:01 GMT",
+    "Duration":0,
+    "EventType":"EQ",
+    "Population":203656
+    }
+  }
